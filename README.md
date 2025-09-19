@@ -1,7 +1,6 @@
 # Wattpad4You
 
-Wattpad4You is a small command-line utility that downloads a public Wattpad story and turns it into a single PDF document.  
-The script scrapes a story's table of contents, fetches each part, and renders the retrieved HTML with the bundled fonts so the finished PDF keeps emphasis, alignment, and special scripts intact.
+Wattpad4You is a small command-line utility that downloads a public Wattpad story and turns it into a single PDF document. The script scrapes a story's table of contents, fetches each part, and renders the retrieved HTML with the bundled fonts so the finished PDF keeps emphasis, alignment, and special scripts intact.
 
 ## Features
 - Extracts the story title and chapter list directly from a Wattpad story page.
